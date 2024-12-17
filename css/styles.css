@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+html {
+    height: 70vh;
+}
+
 body {
     background-image: url("../img/bg.jpg");
     background-position: center;
